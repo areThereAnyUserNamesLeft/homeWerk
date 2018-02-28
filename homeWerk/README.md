@@ -1,6 +1,6 @@
 # HomeWerk
 
-Yes I know it is spelt wrong.
+Yes, I know it is spelt wrong.
 
 I am trying to create a serverless framework in go to act as a short term study planner in an agile way.
 
